@@ -44,4 +44,8 @@ Apr: v1.0 release!
 :octocat: Contributing
 Get involved on GitHub or join our community forums!
 
+![image](https://github.com/scoobiii/zety/assets/5523748/c9380c98-b65c-4d46-9956-e77c837d3874)
+
+
+
 The project is progressing well thanks to community support. Let me know if you have any other questions!
